@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sergio 👋
 
-<!--
-**serfersac/serfersac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer and systems architect specializing in rapid bug resolution, AI-assisted development, and MVP scaling. I focus on helping open-source projects and startups reduce their technical debt securely and efficiently.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+* **Rapid PR Turnaround:** I utilize local, isolated agentic frameworks to analyze codebases and deploy fixes faster than traditional agencies.
+* **Complex Bug Squashing:** Deep experience in tracing logic errors and API integration faults.
+* **End-to-End Delivery:** From scraping and triage to automated testing in Docker environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+* **Languages:** Python, TypeScript, JavaScript, Bash
+* **Frameworks/Tools:** React, Node.js, Django, OpenHands, Docker, Git
+* **Databases:** PostgreSQL, SQLite
+
+### 📫 Let's Connect
+Looking for a fast, reliable contributor for your bounties or private SaaS builds? 
+* **Email:** serfersac@gmail.com
